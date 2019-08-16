@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "ZCOOL QingKe HuangYou";
+  font-size: 18pt;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: black;
+}
+

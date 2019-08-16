@@ -1,0 +1,15 @@
+input.input-box, textarea {
+
+    background-color : yellow; 
+    border-color: orange;
+    padding: 10px;
+  }
+
+
+input::placeholder{
+    color: red;
+}
+
+input:focus{
+    border-color: red;
+}
